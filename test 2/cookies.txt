@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-au3-petfinder.herokuapp.com	TRUE	/	FALSE	1999999999	connect.sid	s%3AvWi_XG8t3A4Ktfswb2sIA0ySLmdBIh8o.tPZBxQTM8vNtx0PvXKu9hr6dd2sdIEyj9nuDZlmhN8w
-.fontawesome.com	TRUE	/	FALSE	1999999999	__cfduid	dea002dd264de321830afcdf1c02fb60d1614438583
-kit.fontawesome.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-
